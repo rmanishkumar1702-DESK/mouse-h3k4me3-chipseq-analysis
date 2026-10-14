@@ -62,21 +62,22 @@ These enrichment themes are exploratory and should not be interpreted as statist
 
 ### 1. Peak Annotation Distribution
 
-This pie chart summarizes the genomic annotation of the called H3K4me3 peaks, highlighting their distribution across annotated genomic regions.
+This pie chart summarizes the genomic annotation of the called H3K4me3 peaks, showing their distribution across annotated genomic regions.
 
-![Peak Annotation Pie Chart](Results/Plots/ChIPseq peak annotation pie.png)
+![Peak Annotation Pie Chart](Results/Plots/ChIPseq%20peak%20annotation%20pie.png)
 
 ### 2. Peak Annotation by Genomic Region
 
 This bar chart compares the genomic annotation categories associated with the called peaks.
 
-![Peak Annotation Bar Chart](Results/Plots/ChIPseq peak annotation bar.png)
+![Peak Annotation Bar Chart](Results/Plots/ChIPseq%20peak%20annotation%20bar.png)
 
 ### 3. Peak Distance from Transcription Start Sites (TSS)
 
-This plot illustrates the distribution of distances between the called peaks and transcription start sites (TSS), helping assess their proximity to gene promoters.
+This plot illustrates the distribution of distances between called peaks and transcription start sites (TSS), helping assess their proximity to gene promoters.
 
-![TSS Distance Plot](Results/Plots/ChIPseq TSS Distance plot.pngResults/Plots/ChIPseq TSS Distance plot.png)
+![TSS Distance Plot](Results/Plots/ChIPseq%20TSS%20Distance%20plot.png)
+
 
 ## Outputs
 
